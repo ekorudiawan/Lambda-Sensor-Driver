@@ -1,0 +1,11 @@
+Output: Simple BOM
+Type  : SimpleBOM
+From  : Variant [[No Variations]] of Project [Lambda-Sensor-Driver.PrjPcb]
+   Generated File[Lambda-Sensor-Driver.BOM]
+   Generated File[Lambda-Sensor-Driver.CSV]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 10:37:44 PM On 3/4/2017
